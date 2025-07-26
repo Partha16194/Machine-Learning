@@ -1,0 +1,42 @@
+🔍 Customer Segmentation using K-Means Clustering
+
+🚀 Project Highlight
+I recently worked on a customer segmentation project using the popular Shopping Mall Customer Dataset from Kaggle. The goal was to categorize customers into distinct groups based on two key variables:
+
+    Annual Income
+
+    Spending Score
+
+I implemented K-Means Clustering to segment the customers into optimal clusters. This visualization clearly reflects how customer behaviors can be grouped for better marketing strategies.
+
+📊 Tools Used:
+Python | Pandas | Matplotlib | Seaborn | Scikit-learn
+💡 Key Insights from the Graph
+
+From the scatter plot:
+
+    5 Distinct Customer Segments emerged:
+
+        🟦 High Spenders with Low Income (Blue): This group spends heavily despite a lower income, possibly indicating aspirational or impulsive buyers.
+
+        🟥 High Income, High Spenders (Red): Premium customers – ideal for luxury marketing campaigns.
+
+        🟨 High Income, Low Spenders (Yellow): Price-conscious affluent customers – might respond well to value-based offerings.
+
+        🟪 Low Income, Low Spenders (Purple): Budget-conscious group – potentially untapped or low-priority.
+
+        🟩 Moderate Income, Moderate Spenders (Green): Stable and consistent customers – good for loyalty programs.
+
+    The cyan dots represent the centroids of each cluster – the average behavior of each segment.
+
+    The plot shows clear separability among most groups, which indicates well-defined customer behavior patterns based on income and spending.
+
+🤖 Why it matters:
+
+This project underscores how machine learning can drive data-driven decisions in marketing and CRM. By identifying customer segments, businesses can:
+
+    Personalize campaigns 🎯
+
+    Improve retention strategies 🔁
+
+    Maximize ROI 💰
