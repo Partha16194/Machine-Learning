@@ -1,0 +1,11 @@
+Heart Health Predictor
+
+This repository contains the source code for a machine learning-powered web app that assesses cardiovascular risk. The application is built with Python and uses a pre-trained classification model to predict the presence of heart disease based on user-inputted medical data.
+
+Key Features:
+
+    Interactive UI: Built with Streamlit for easy data entry.
+
+    ML Model: Utilizes a pre-trained model for real-time predictions.
+
+    Data Preprocessing: Includes scripts for scaling and encoding data to match the model's requirements.
